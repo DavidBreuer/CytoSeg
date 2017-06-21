@@ -26,7 +26,7 @@ import utils
 
 sigma=2.0                                                                       # tubeness filter width
 block=101.0                                                                     # adaptive median filter block size
-small=25.0                                                                      # smallest components size threshold
+small=25.0                                                                      # smallest component size threshold
 factr=0.5                                                                       # fraction of average intensity threshold
 
 randw=0                                                                         # randomization method (0 = shuffle nodes and edges / 1 = shuffle edge weights only)
@@ -92,7 +92,7 @@ for i in range(I):                                                          	# f
         quant=utils.compute_graph(gRn,poz,mask)                                 # compute graph properties         
         dataR.append([i,gRn,poz,quant])                                         # append data
     
-#%%############################################################################# export and plot data
+#%%############################################################################# plot and export data
 
 print('export','plot')  
 
