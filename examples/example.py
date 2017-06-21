@@ -30,7 +30,7 @@ small=25.0                                                                      
 factr=0.5                                                                       # fraction of average intensity threshold
 depth=7.75                                                                      # spacing between z-slices in xy-pixels spacings (1mum / 0.129mum/pixel = 7.75 pixels)
 
-path='data'                                                                     # directory with actin and Golgi images                                                        
+path='data/'                                                                    # directory with actin and Golgi images                                                        
 aa='actin_filter.tif'                                                           # name of actin image 
 gg='golgi_filter.tif'                                                           # name of Golgi image
 
