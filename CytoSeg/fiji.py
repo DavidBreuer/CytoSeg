@@ -80,7 +80,7 @@ else:
     
     print 'register','split'
     ij.IJ.selectWindow('RGB')													# select merged image
-    ij.IJ.run('StackReg', 'transformation=[Rigid Body]')                        # register merged imgage
+    ij.IJ.run('StackReg ', 'transformation=[Rigid Body]')                        # register merged imgage
     ij.IJ.run('Split Channels')                                                 # split image channels
     
     print 'register','save'
