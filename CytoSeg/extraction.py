@@ -29,7 +29,7 @@ block=101.0                                                                     
 small=25.0                                                                      # smallest component size threshold
 factr=0.5                                                                       # fraction of average intensity threshold
 
-randw=0                                                                         # randomization method (0 = shuffle nodes and edges / 1 = shuffle edge weights only)
+randw=0                                                                         # randomization method (0 = shuffle edge weights only / 1 = shuffle nodes and edges)
 randn=20                                                                        # number of randomized networks
 
 depth=7.75                                                                      # spacing between z-slices in xy-pixels spacings (1mum / 0.129mum/pixel = 7.75 pixels)
