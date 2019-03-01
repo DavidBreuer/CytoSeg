@@ -34,6 +34,6 @@ Extraction of actin networks from image data:
 
 If this software is useful for your work, please include the following reference in your publication or redistribution:
 
-Breuer et al. (2017, accepted) System-wide organization of actin cytoskeleton determines organelle transport in plant hypocotyl cells. 
+Breuer et al. (2017) System-wide organization of actin cytoskeleton determines organelle transport in plant hypocotyl cells. PNAS, 10.1073/pnas.1706711114.
 
 
