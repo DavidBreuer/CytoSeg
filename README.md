@@ -1,6 +1,6 @@
 # CytoSeg
 
-**Automated quantification of cytoskeletal networks and cellular transport from image data**
+## Automated quantification of cytoskeletal networks and cellular transport from image data
 
 ![](examples/images/figure.png)
 
@@ -13,7 +13,7 @@
 
 Please see [project website for details](http://mathbiol.mpimp-golm.mpg.de/CytoSeg/).
 
-**Instructions**
+## Instructions
 
 Preprocessing of actin and Golgi image data:
 
@@ -30,10 +30,10 @@ Extraction of actin networks from image data:
 - Run the extraction script using Python (2 or 3).
 - Exemplary plots and the computed network properties are written to the selected directory.
 
-**Citation**
+## Citation
 
-If this software is useful for your work, please include the following reference in your publication or redistribution:
+If this software is useful for your work, please include the following references in your publication or redistribution:
 
-Breuer et al. (2017) System-wide organization of actin cytoskeleton determines organelle transport in plant hypocotyl cells. PNAS, 10.1073/pnas.1706711114.
+Breuer et al. (2017) [System-wide organization of actin cytoskeleton determines organelle transport in plant hypocotyl cells](https://www.pnas.org/content/pnas/114/28/E5741.full.pdf). PNAS, 10.1073/pnas.1706711114.
 
 
